@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\fontawesome-free-5.15.2-web\\fontcss"
+		},
+		{
+			"path": "..\\..\\fontawesome-free-5.15.2-web\\fontjs"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "final-project"
+	}
+}
